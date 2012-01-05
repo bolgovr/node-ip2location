@@ -1,10 +1,12 @@
 {
-  "author": "Bolgov Roman <bolgovr@gmail.com>",
+  "author": "Roman Bolgov <bolgovr@gmail.com> (https://twitter.com/#!/rbolgov)",
   "name": "ip2location",
-  "description": "Node ip2location module",
+  "description": "ip2location bindings for node.js",
   "version": "0.0.1",
+  "homepage": "https://github.com/bolgovr/node-ip2location",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/bolgovr/node-ip2location.git"
   },
   "main": "index.js",
   "engines": {
