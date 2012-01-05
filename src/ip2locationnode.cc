@@ -1,6 +1,6 @@
 #include <v8.h>
 #include <node.h>
-#include "IP2Location.h"
+#include <IP2Location.h>
 #include <string>
 using namespace node;
 using namespace v8;
