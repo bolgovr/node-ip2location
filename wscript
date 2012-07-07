@@ -25,6 +25,6 @@ def move_ready(context,target=target):
     filename = '%s.node' % target
     from_path = os.path.join(srcdir,blddir,'Release',filename)
     to_path = os.path.join(srcdir,'lib',filename)
-    if os.path.exists(from_path):
+    if os.fs.exists(from_path):
         os.rename(from_path, to_path)
         shutil.rmtree(blddir)
