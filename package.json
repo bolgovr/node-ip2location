@@ -2,7 +2,7 @@
   "author": "Roman Bolgov <bolgovr@gmail.com> (https://twitter.com/#!/rbolgov)",
   "name": "ip2location",
   "description": "ip2location bindings for node.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/bolgovr/node-ip2location",
   "repository": {
     "type": "git",
