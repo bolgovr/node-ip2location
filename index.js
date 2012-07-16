@@ -1,4 +1,1 @@
-
-
-
-module.exports=require('./lib/ip2locationnode.node').Location;
+module.exports = require('./build/Release/ip2locationnode.node').Location;
