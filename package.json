@@ -12,7 +12,7 @@
   "engines": {
     "node": "*"
   },
-  "scripts":{"install":"node install.js"},
+  "scripts":{"install":"node-gyp configure build"},
   "dependencies": {},
   "devDependencies": {}
 }
